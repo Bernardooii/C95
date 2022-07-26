@@ -1,0 +1,20 @@
+[
+    {
+        "id": "0",
+        "nome": "Uva",
+        "vencimento": "20/07/22",
+        "quantidade": "2 caixas"
+    },
+    {
+        "id": "1",
+        "nome": "Carne",
+        "vencimento": "03/08/22",
+        "quantidade": "4 itens"
+    },
+    {
+        "id": "2",
+        "nome": "Milho",
+        "vencimento": "20/01/23",
+        "quantidade": "5 itens"
+    }
+]
